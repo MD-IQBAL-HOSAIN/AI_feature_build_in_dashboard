@@ -1,0 +1,8 @@
+# OpenAI API Key (leave empty if you want to use fake/local testing)
+OPENAI_API_KEY=
+
+# Quick dev toggle: when true, dashboard shows a canned AI response (no external API calls)
+AI_FAKE=false/true
+
+NB: env te ei duita must thakte hobe. jode OPENAI_API_KEY= na thake taile AI_FAKE=true kaj korbe. Initial akta reply set kora ache seta dibe.
+Ar jode OPENAI_API_KEY thake taile AI_FAKE=false set korte hobe taile real ta theke message asbe.
